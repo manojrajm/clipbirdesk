@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/clipbirdesk/static/css/main.e5956451.css",
-    "main.js": "/clipbirdesk/static/js/main.95652ccf.js",
+    "main.css": "/clipbirdesk/static/css/main.ed0af174.css",
+    "main.js": "/clipbirdesk/static/js/main.e0f5cabc.js",
     "static/js/787.6e913fbb.chunk.js": "/clipbirdesk/static/js/787.6e913fbb.chunk.js",
     "static/media/logo.png": "/clipbirdesk/static/media/logo.9c3ca6fffde4b8fc5818.png",
     "index.html": "/clipbirdesk/index.html",
-    "main.e5956451.css.map": "/clipbirdesk/static/css/main.e5956451.css.map",
-    "main.95652ccf.js.map": "/clipbirdesk/static/js/main.95652ccf.js.map",
+    "main.ed0af174.css.map": "/clipbirdesk/static/css/main.ed0af174.css.map",
+    "main.e0f5cabc.js.map": "/clipbirdesk/static/js/main.e0f5cabc.js.map",
     "787.6e913fbb.chunk.js.map": "/clipbirdesk/static/js/787.6e913fbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5956451.css",
-    "static/js/main.95652ccf.js"
+    "static/css/main.ed0af174.css",
+    "static/js/main.e0f5cabc.js"
   ]
 }
